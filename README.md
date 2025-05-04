@@ -1,5 +1,5 @@
 # datadriven-sommelier
-Data-Driven Sommelier: Uncovering the Secrets behind Wine
+## Data-Driven Sommelier: Uncovering the Secrets behind Wine
 
 Link to Blog Post: https://medium.com/@benjamin.mingjun/data-driven-sommelier-uncovering-the-secrets-behind-wine-16c65cfcc323
 
